@@ -1,0 +1,12 @@
+slack-bolt
+python-dotenv
+google-genai
+tenacity
+chromadb
+langchain
+langchain-text-splitters
+langchain-community
+langchain-google-genai
+faiss-cpu
+spacy
+py3langid
